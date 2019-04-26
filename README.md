@@ -1,3 +1,6 @@
+## Archived in favor of https://github.com/goldstar611/MyBookLive-buildroot
+
+
 # kernel-4.1.x
 My Book Live patches for vanilla Linux kernel
 
